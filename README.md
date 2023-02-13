@@ -1,6 +1,6 @@
 # Hi, I’m Vitor Marques
 
-+3 years working as Data Scientist
++4 years working as Data Scientist
 Strong experience in Data Science and Machine Learning as Regression, Classification and Neural Network.
 Understanding the whole Machine Learning and Data Process from idealization to deployment.
 
